@@ -1,0 +1,19 @@
+{
+    "estado": 1,
+    "mensaje": "Los registros se listan correctamente",
+    "categoria": [
+        {
+            "id": 1,
+            "nombre_categoria": "Hola",
+            "subcategoria": 1
+        },{
+            "id": 2,
+            "nombre_categoria": "Hola2",
+            "subcategoria": 0
+        },{
+            "id": 2,
+            "nombre_categoria": "Hola3",
+            "subcategoria": 1
+        }
+    ]
+}
